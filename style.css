@@ -45,3 +45,8 @@ footer {
 a:hover {
     color: yellowgreen;
 }
+
+#office {
+    background-color: black;
+    color: blue;
+}
